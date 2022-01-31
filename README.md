@@ -1,17 +1,16 @@
 # simplon-objectifLune
 
-##Linux
+## Linux
 
 - Installer git [Tuto](https://www.atlassian.com/git/tutorials/install-git#linux)
 - Faire un compte gitHub
 
 [Tuto git](https://rogerdudler.github.io/git-guide/index.fr.html)
-- Cloner un dépôt sur un serveur distant
+- `git clone /path/to/repository`
 
+## Windows
 
-##Windows
-
-Télécharger et installer : 
+### Télécharger et installer : 
 - Firefox
 - Chrome
 - flux
@@ -28,10 +27,10 @@ Télécharger et installer :
 
 
 
-Touver les charactères : "" {} '' & \[] | \ `` * % $ ; < >
+### Touver les charactères : "" {} '' & \[] | \ `` * % $ ; < >
 
 
-Raccourci pour :
+### Raccourci 
 - Historique du press-papier
 - Screenshot
 - Gestionaire des tâches
