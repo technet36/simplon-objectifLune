@@ -6,7 +6,7 @@
 - Faire un compte gitHub
 
 [Tuto git](https://rogerdudler.github.io/git-guide/index.fr.html)
-- `git clone /path/to/repository`
+- `git clone https://github.com/technet36/simplon-objectifLune.git`
 - `cd simplon-objectifLune`
 - `git checkout -b branche_toto` en remplacant "toto" par votre prénom
 - Créez un nouveau fichier (monNom.htlm) et mettez quelques ligne dedans
