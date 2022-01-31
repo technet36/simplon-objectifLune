@@ -7,6 +7,7 @@
 
 [Tuto git](https://rogerdudler.github.io/git-guide/index.fr.html)
 - `git clone /path/to/repository`
+- `cd simplon-objectifLune`
 - `git checkout -b branche_toto` en remplacant "toto" par votre prénom
 - Créez un nouveau fichier (monNom.htlm) et mettez quelques ligne dedans
 - `git add *`
