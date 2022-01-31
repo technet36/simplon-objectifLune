@@ -1,7 +1,7 @@
 # simplon-objectifLune
 
 ## Linux
-
+- Savoir utiliser les commandes `cd`, `ls` et le "man"
 - Installer git : `sudo apt-get update` puis `sudo apt-get install git`
 - Faire un compte gitHub
 
@@ -32,8 +32,12 @@
 - postman
 
 
+## En groupe
 
-### Touver les charactères : "" _ {} '' & \[] | \ `` * % $ ; < >
+- Faire une liste des logiciels libres que vous conaissez
+- Chercher et discuter de ce qu'est le "logiciel libre"
+- Acccedez à un site via son adresse IP
+- Sur le clavier, touvez les charactères : "" _ {} '' & \[] | \ `` * % $ ; < >
 
 
 ### Raccourci 
