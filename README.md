@@ -12,7 +12,7 @@
 - Créez un nouveau fichier (monNom.htlm) et mettez quelques ligne dedans
 - `git add *`
 - ` git commit -m "Commit de Toto"` en remplacant "toto" par votre prénom
-- `git push origin main`
+- `git push origin branche_toto` en remplacant "toto" par votre prénom
 
 ## Windows
 
