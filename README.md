@@ -2,11 +2,16 @@
 
 ## Linux
 
-- Installer git [Tuto](https://www.atlassian.com/git/tutorials/install-git#linux)
+- Installer git : `sudo apt-get update` puis `sudo apt-get install git`
 - Faire un compte gitHub
 
 [Tuto git](https://rogerdudler.github.io/git-guide/index.fr.html)
 - `git clone /path/to/repository`
+- `git checkout -b branche_toto` en remplacant "toto" par votre prénom
+- Créez un nouveau fichier (monNom.htlm) et mettez quelques ligne dedans
+- `git add *`
+- ` git commit -m "Commit de Toto"` en remplacant "toto" par votre prénom
+- `git push origin main`
 
 ## Windows
 
@@ -27,7 +32,7 @@
 
 
 
-### Touver les charactères : "" {} '' & \[] | \ `` * % $ ; < >
+### Touver les charactères : "" _ {} '' & \[] | \ `` * % $ ; < >
 
 
 ### Raccourci 
